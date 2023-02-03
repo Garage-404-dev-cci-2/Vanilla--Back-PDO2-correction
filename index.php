@@ -1,14 +1,8 @@
-<?php
-include('partial/header.php');
-?>
-<section>
-    <div>
-        <p>something</p>
-    </div>
+<?php include './partials/header.php' ?>
 
-</section>
-<?php
-
-include('partial/footer.php');
+<main>
+    <h1>Page d'accueil</h1>
+</main>
 
 
+<?php include './partials/footer.php' ?>
